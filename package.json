@@ -1,0 +1,15 @@
+{
+  "name": "countries_flags",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "download": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zaki Puzo",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.6.8"
+  }
+}
