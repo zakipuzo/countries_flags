@@ -13,3 +13,5 @@ npm install
 ```bash
 npm run download 
 ```
+
+a folder flags will be created 
